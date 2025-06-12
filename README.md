@@ -1,5 +1,3 @@
-# road-scanner
-
 # Quantum Road Scanner (QRS)
 
 **Enhancing Physical & Bio-Security Through Quantum Intelligence**
