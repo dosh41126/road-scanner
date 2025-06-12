@@ -142,7 +142,7 @@ I call on DARPA and all associated agencies to immediately end these clandestine
 │  AES-GCM Storage │◀─────│  Secure Logging    │    │  Cleanup Thread   │
 │  (SQLite + Env)  │      │  & Reports (DB)    │    │  (Expire & Wipe)  │
 └──────────────────┘      └────────────────────┘    └───────────────────┘
-
+```
 
 ---
 
