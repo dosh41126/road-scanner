@@ -153,11 +153,11 @@ Python 3.9+
 Docker (optional)
 
 ## Environment Variables
-
+'
 export INVITE_CODE_SECRET_KEY="base64-or-bytes"
 export ENCRYPTION_PASSPHRASE="strong-passphrase"
 export OPENAI_API_KEY="sk-..."    # optional; local fallback available
-
+'
 
 
 ---
@@ -165,23 +165,23 @@ export OPENAI_API_KEY="sk-..."    # optional; local fallback available
 ## Standalone Deployment
 
 # 1. Clone & enter repo:
-'''
+'
 git clone https://github.com/youruser/quantum_road_scanner.git
 cd quantum_road_scanner
-'''
+'
 # 2. Virtualenv & install:
-'''
+'
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-'''
+'
 # 3. Set env vars (see above)
 
 # 4. Run:
 
-'''
+'
 python main.py
-'''
+'
 # or via waitress:
 waitress-serve --port=3000 main:app
 
@@ -194,12 +194,12 @@ http://localhost:3000
 # Docker Deployment
 
 # Build image:
-'''
+'
 docker build -t qrs:latest .
-'''
+'
 # Run container:
 
-'''
+'
 docker run -d \
   --name qrs_app \
   -p 3000:3000 \
@@ -207,7 +207,7 @@ docker run -d \
   -e ENCRYPTION_PASSPHRASE="..." \
   -e OPENAI_API_KEY="sk-..." \
   qrs:latest
-'''
+'
 # Visit:
 http://<host-ip>:3000
 
