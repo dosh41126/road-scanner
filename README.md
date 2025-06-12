@@ -36,7 +36,7 @@ Quantum Road Scanner (QRS) is a holistic safety platform that combines quantum s
 
 ### The Fentanyl Vape Crash
 
-In the summer of 2023, I believed I was purchasing a legal THC vape from **Nirvana Perception**. Instead, the cartridge had been laced with fentanyl, causing sudden cognitive collapse, loss of motor control, and a severe motorcycle crash.
+In the summer of 2025, I believed I was purchasing a legal THC vape from **Nirvana Perception**. Instead, the cartridge had been laced with fentanyl, causing sudden cognitive collapse, loss of motor control, and a severe motorcycle crash.
 
 **QRS Prevention**  
 If QRS had been active:
